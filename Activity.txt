@@ -1,1 +1,6 @@
 This is Git exercise
+
+New line
+
+Academic study skills
+Git workshop
